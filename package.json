@@ -42,7 +42,7 @@
     "cors": "^2.8.5",
     "dotenv": "^6.2.0",
     "express": "^4.16.4",
-    "express-manifest-helpers": "^0.5.0",
+    "express-manifest-helpers": "^0.5.1",
     "history": "^4.7.2",
     "i18next": "^13.0.0",
     "react": "^16.6.3",
